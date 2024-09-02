@@ -1,4 +1,4 @@
-![Giulia Nicole Pernice](https://github.com/yumyo/YUMYO/raw/main/giulia.gif)
+![Giulia Nicole Pernice](https://github.com/yumyo/YUMYO/raw/main/giulia.webp)
 
 Hi, my name is Giulia Nicole Pernice
 =============================================================================================================================================
