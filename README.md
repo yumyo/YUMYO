@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giulia Nicole Pernice
-=============================================================================================================================================
+![Giulia Nicole Pernice](https://github.com/yumyo/YUMYO/raw/main/giulia.gif)
 
-Design Technologist
--------------------
+Hi, my name is Giulia Nicole Pernice
+=============================================================================================================================================
 
 I am a Digital Product Engineer blending digital design and full-stack development. I foster collaboration by aligning creative and technical teams.
 
