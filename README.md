@@ -3,7 +3,8 @@
 Hi, my name is Giulia Nicole Pernice
 =============================================================================================================================================
 
-I am a Digital Product Engineer blending digital design and full-stack development. I foster collaboration by aligning creative and technical teams.
+I am a Digital Product Engineer blending digital design and full-stack development.   
+I foster collaboration by aligning creative and technical teams.
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [kdsign.com](http://kdsign.com)
