@@ -95,6 +95,7 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-F37623?style=for-the-badge&logo=browserstack&logoColor=white)
 ![WAVE](https://img.shields.io/badge/WAVE-005A9C?style=for-the-badge&logo=wave&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Perfume.js](https://img.shields.io/badge/Perfume.js-1E90FF?style=for-the-badge&logo=perfume&logoColor=white)
 
 ### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -159,4 +160,4 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yumyo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&author=Alan-turing)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&author=alan-turing)](https://github.com/piyushsuthar/github-readme-quotes)
