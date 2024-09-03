@@ -1,8 +1,6 @@
 ![Giulia Nicole Pernice](https://github.com/yumyo/YUMYO/raw/main/giulia.webp)
 
-> Cover art created with https://beta.dreamstudio.ai/generate and https://app.immersity.ai/
-
-Hi, my name is Giulia Nicole Pernice
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png" alt="Unicorn" width="25" height="25" /> Hi, my name is Giulia Nicole Pernice
 =============================================================================================================================================
 
 I'm a multidisciplinary Digital Product Engineer working at the intersection of design and technology.
