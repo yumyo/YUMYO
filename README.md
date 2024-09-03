@@ -78,6 +78,7 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pantheon](https://img.shields.io/badge/Pantheon-FFDC28?style=for-the-badge&logo=pantheon&logoColor=black)
 
 ### Databases & Query Languages
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
@@ -163,4 +164,4 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yumyo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&author=alan-turing)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&author=Alan-turing)](https://github.com/piyushsuthar/github-readme-quotes)
