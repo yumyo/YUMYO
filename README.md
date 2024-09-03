@@ -35,6 +35,7 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0EA5E9?style=for-the-badge&logo=shadcn-ui&logoColor=white)
+![Web Components](https://img.shields.io/badge/web--components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
 ### Jamstack & CMS
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
