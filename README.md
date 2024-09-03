@@ -1,5 +1,7 @@
 ![Giulia Nicole Pernice](https://github.com/yumyo/YUMYO/raw/main/giulia.webp)
 
+> Cover art created with https://beta.dreamstudio.ai/generate and https://app.immersity.ai/
+
 Hi, my name is Giulia Nicole Pernice
 =============================================================================================================================================
 
