@@ -109,6 +109,8 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)
+![Stackblitz](https://img.shields.io/badge/Stackblitz-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 ### Design System Management
 ![Style Dictionary](https://img.shields.io/badge/Style%20Dictionary-1E1E1E?style=for-the-badge&logo=style-dictionary&logoColor=white)
@@ -135,6 +137,7 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Logseq](https://img.shields.io/badge/Logseq-000000?style=for-the-badge&logo=logseq&logoColor=white)
 
 ## Blockchain
 
