@@ -27,6 +27,7 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Preact](https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=preact&logoColor=white)
 
 ### CSS Frameworks & Libraries
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
