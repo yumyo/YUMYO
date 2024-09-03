@@ -14,6 +14,7 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -30,7 +31,6 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Preact](https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=preact&logoColor=white)
 
 ### CSS Frameworks & Libraries
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
@@ -94,9 +94,10 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Chromatic](https://img.shields.io/badge/Chromatic-F44D27?style=for-the-badge&logo=chromatic&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Axe](https://img.shields.io/badge/Axe-663399?style=for-the-badge&logo=axe&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-F37623?style=for-the-badge&logo=browserstack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WAVE](https://img.shields.io/badge/WAVE-005A9C?style=for-the-badge&logo=wave&logoColor=white)
+![Axe](https://img.shields.io/badge/Axe-663399?style=for-the-badge&logo=axe&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![Perfume.js](https://img.shields.io/badge/Perfume.js-1E90FF?style=for-the-badge&logo=perfume&logoColor=white)
 
@@ -137,7 +138,6 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
