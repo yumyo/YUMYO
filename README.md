@@ -31,4 +31,4 @@ I'm a multidisciplinary Digital Product Engineer working at the intersection of 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yumyo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&author=Alan-Turing)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&author=alan-Turing)](https://github.com/piyushsuthar/github-readme-quotes)
